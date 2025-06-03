@@ -73,6 +73,8 @@ Your submission should include:
     - Your **main analysis script**
     - Any **supporting documentation or insights**
     - A short note on **why you’re applying** and your **interest in the role**
+    - 
+Send your submission to **Jobs@OxfordRisk.com** by the date indicated in the job posting.
 
 ⚠️ **Please do not apply if you haven’t completed the task.**
 
