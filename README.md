@@ -31,8 +31,14 @@ You will need the following credentials:
   `https://pvgaaikztozwlfhyrqlo.supabase.co`
 
 - **API_KEY**:
-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InB2Z2FhaWt6dG96d2xmaHlycWxvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDc4NDE2MjUsImV4cCI6MjA2MzQxNzYyNX0.iAqMXnJ_sJuBMtA6FPNCRcYnKw95YkJvY3OhCIZ77vI
+  
+  `eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InB2Z2FhaWt6dG96d2xmaHlycWxvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDc4NDE2MjUsImV4cCI6MjA2MzQxNzYyNX0.iAqMXnJ_sJuBMtA6FPNCRcYnKw95YkJvY3OhCIZ77vI`
 
+Use the following endpoint to retrieve the full table: 
+
+url = f"{SUPABASE_URL}/rest/v1/assets?select=*" 
+
+You can use the requests library in Python, or any method of your choice, to retrieve the data. 
 ---
 
 ## 🧩 **Task Breakdown**
