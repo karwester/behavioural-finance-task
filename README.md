@@ -25,7 +25,7 @@ Publicly available at:
 
 ### 2. **Assets Data** (Supabase API)
 
-You will need the following credentials:
+Available as a table **assets** from Supabase database and accessible via an API. You will need the following credentials:
 
 - **SUPABASE_URL**:  
   `https://pvgaaikztozwlfhyrqlo.supabase.co`
@@ -39,6 +39,7 @@ Use the following endpoint to retrieve the full table:
 url = f"{SUPABASE_URL}/rest/v1/assets?select=*" 
 
 You can use the requests library in Python, or any method of your choice, to retrieve the data. 
+
 ---
 
 ## 🧩 **Task Breakdown**
