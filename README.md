@@ -33,6 +33,8 @@ You will need the following credentials:
 - **API_KEY**:
 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InB2Z2FhaWt6dG96d2xmaHlycWxvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDc4NDE2MjUsImV4cCI6MjA2MzQxNzYyNX0.iAqMXnJ_sJuBMtA6FPNCRcYnKw95YkJvY3OhCIZ77vI
 
+---
+
 ## 🧩 **Task Breakdown**
 
 - Load both datasets (**personality + assets**).
@@ -41,15 +43,11 @@ eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InB2Z2FhaWt
 
 Highest asset value (in GBP) individual risk tolerance: 0.85 [replace with your result]
 
-
----
-
-## 📊 **Conduct Exploratory Data Analysis (EDA)**
-
-- Use any methods or tools (e.g., **summary stats**, **plots**, **correlations**).
+- Conduct Exploratory Data Analysis
+  - Use any methods or tools (e.g., **summary stats**, **plots**, **correlations**).
 - Document your insights:
-- Add **comments in your Python code**
-- Save your insights in a **separate file** in your GitHub repo (Word, PowerPoint, or any other format is fine)
+  - Add **comments in your Python code**
+  - Save your insights in a **separate file** in your GitHub repo (Word, PowerPoint, or any other format is fine)
 
 ---
 
